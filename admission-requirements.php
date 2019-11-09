@@ -20,7 +20,7 @@
             <div class="row">
 
                 <div class="medium-6 small-12 columns">
-                    <img src="images/help/about-hallowed-school.jpg" alt="Education Background" />
+                    <img src="images/help/student.jpg" alt="Education Background" />
                 </div><!-- Left Column /-->
 
                 <div class="medium-6 small-12 columns">
