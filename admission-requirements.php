@@ -24,7 +24,7 @@
                 </div><!-- Left Column /-->
 
                 <div class="medium-6 small-12 columns">
-                    <h2>ENTRY REQUIREMENT INTO <span> Hallowed Ground Model Secondary School!</span></h2>
+                    <h2>ENTRY REQUIREMENT INTO <span> Trinity Model Secondary School!</span></h2>
                     <p>
                     <ol>
                         <li>
